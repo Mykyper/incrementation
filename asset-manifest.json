@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/incrementation/static/css/main.6ab64e4f.css",
+    "main.js": "/incrementation/static/js/main.af09603e.js",
+    "static/js/787.8aa8c7fc.chunk.js": "/incrementation/static/js/787.8aa8c7fc.chunk.js",
+    "index.html": "/incrementation/index.html",
+    "main.6ab64e4f.css.map": "/incrementation/static/css/main.6ab64e4f.css.map",
+    "main.af09603e.js.map": "/incrementation/static/js/main.af09603e.js.map",
+    "787.8aa8c7fc.chunk.js.map": "/incrementation/static/js/787.8aa8c7fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab64e4f.css",
+    "static/js/main.af09603e.js"
+  ]
+}
